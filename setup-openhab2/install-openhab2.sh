@@ -2,7 +2,7 @@
 
 OPENHAB_HOME=/opt/openhab2
 DIST_HOME=/opt/dist
-ZIP_NAME=distribution-2.0.0-SNAPSHOT-runtime.zip
+ZIP_NAME=openhab-2.0.0.alpha2-runtime.zip 
 OPENHAB_USER=pi
 
 sudo service openhab2 stop
